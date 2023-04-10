@@ -1,0 +1,6 @@
+{
+  "*": {
+    "target": "https://donatello.to",
+    "secure": false
+  }
+}
